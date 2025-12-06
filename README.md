@@ -1,5 +1,5 @@
 # nyra-zsh
-**A clean and minimal ZSH theme made for personal use**
+**A clean and minimal ZSH theme made for my personal use.**
 
 ## Credits
 I made this theme's aesthetics taking inspiration from:
