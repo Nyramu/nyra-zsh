@@ -1,4 +1,4 @@
-# Nyra
+# nyra-zsh
 **A clean and minimal ZSH theme made for personal use**
 
 ## Credits
